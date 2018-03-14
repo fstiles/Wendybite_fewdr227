@@ -1,0 +1,26 @@
+/* LOL this is. comment in css*/
+
+section {
+	display: block;
+	margin-left: 100px
+}
+body { 
+	border-style: solid;
+	background-color: #808080;
+}
+header h1 { 
+	font-family: "Verdana", sans-serif;
+}
+
+h1 { font-family: arial;
+	color: white;
+}
+
+p {color: white;}
+
+article {font-family: "Times New Roman", Times, serif;}
+
+a { font-family: arial; 
+}
+
+img {float: right;}
